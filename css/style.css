@@ -1,0 +1,27 @@
+h1 {
+  colour: blue;
+  margin: 10px 160px 0px 100px
+}
+
+p {
+  color: brown;
+}
+
+h3{
+  font-weight: 100;
+  background-color: ;
+  padding:50px50px ;
+  margin: 10px 160px 0px 100px;
+}
+h4 {
+  font-style: oblique;
+  background: lightblue;
+  margin: 10px 160px 0px 100px;
+  width: 66%;
+  border: 3px solid black;
+  float: left
+}
+h4 {font-style: oblique}
+h3 {
+  display:inline;
+}

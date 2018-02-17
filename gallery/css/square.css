@@ -1,0 +1,17 @@
+
+body { overflow: hidden; }
+
+.square {
+	position: relative;
+	
+	border: dashed #F0F0F0 1px; ]
+	
+	float:left;
+	
+	width: 25%;
+	
+	height: 25vh; 
+
+	overflow: hidden;
+	
+}

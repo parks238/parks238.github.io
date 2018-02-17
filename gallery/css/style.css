@@ -1,0 +1,33 @@
+/* 
+
+Your Name
+
+*/
+
+/* so we can tell that our file is loading */
+body {
+	background-color: white;
+}
+
+.example {
+	background-color: lightblue;
+}
+
+.example:hover { 
+	background-color: #ff7886;
+	cursor: pointer;
+}
+
+.example:active {
+	cursor: wait;
+	background: url(http://i.giphy.com/xTiN0E03sgnvms9Uli.gif) 50% 50%;
+}
+
+.columm-row-equals{
+background-color:red;
+border:1px solid green;
+}
+.green{
+	background-color:green;
+	border:1px solid green;
+}

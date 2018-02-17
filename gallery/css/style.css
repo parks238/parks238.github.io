@@ -1,33 +1,47 @@
-/* 
-
-Your Name
-
-*/
-
-/* so we can tell that our file is loading */
 body {
 	background-color: white;
 }
 
 .example {
 	background-color: lightblue;
+  
 }
 
 .example:hover { 
-	background-color: #ff7886;
+
 	cursor: pointer;
+  background: url(https://image.spreadshirtmedia.com/image-server/v1/designs/12041521,width=178,height=178/the-basquiat-crown-tee-in-white.png) 50% 50%;
 }
 
-.example:active {
+.green:active {
 	cursor: wait;
-	background: url(http://i.giphy.com/xTiN0E03sgnvms9Uli.gif) 50% 50%;
+	background: url(http://www.tampabay.com/storyimage/HI/20170519/ARTICLE/305199612/AR/0/AR-305199612.jpg?MaxW=950) 50% 50%;
+  
+  
 }
 
 .columm-row-equals{
 background-color:red;
-border:1px solid green;
+
+  border-style: solid;
 }
 .green{
 	background-color:green;
 	border:1px solid green;
+}
+
+body { overflow: hidden; }
+
+.square {
+	position: relative;
+	
+	border-style: solid;
+	
+	float:left;
+	
+	width: 25%;
+	
+	height: 25vh; 
+
+	overflow: hidden;
 }

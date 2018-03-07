@@ -1,0 +1,55 @@
+   *      {  
+     margin: 0;  
+     padding: 0;  
+     border: 0;  }
+   html, body 
+         {  
+           width: 100%;  
+           height: 100%;  }
+   #wrap    {  
+     width: 90%;  
+     height: 100%;  
+     margin: 0 auto;  }
+
+   header    {
+     
+     font-family:helvetica;
+     font-weight: bold;
+      margin: 10px;
+  font-size: 50px;
+     height: 150px;  
+     height: 20%;
+     background: #c9c;  }
+   #content{  
+     width: 100%;  
+     height: 55%;  
+     margin-top: 2%;   }
+   .box    {  
+     font-family:helvetica;
+     width: 32%; 
+     height:100%; 
+     background: #9c9;  
+     float: left;   
+     border: 0px solid #000; 
+     overflow: hidden;  }
+   .box:first-child
+         {  margin-right: 2%;  }
+   .box:last-child
+         {  float: right;  }
+   footer    {  
+     font-size: 50px;
+     font-weight: bold;
+     font-family:helvetica;
+     width: 100%;  
+     height: 20%;  
+     margin-top: 2%;  
+     background: #99c; }
+@media all and (max-width:480px){
+
+.box {
+  float:bottom; height:100px; width:56vh;}
+  footer{
+   width:px}
+}
+
+

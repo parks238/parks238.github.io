@@ -63,24 +63,7 @@ header {
   box-shadow:  0px 3px 3px 1px rgba(0, 0, 0, 0.25);
 }
 
-.slogan {
-  position: fixed;
-  display: block;
-  top: 700px;
-  width: 100%;
-  padding: 20px 0;
-  text-align: center;
-  background: #222;
-}
 
-.sloganTitle {
-  font-size: 70px;
-  font-weight: 700;
-  line-height: 80px;
-  color: #fff;
-  
-  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.25);
-}
 
 #video{
   position:absolute;

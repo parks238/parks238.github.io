@@ -1,14 +1,4 @@
-/* 
-** Change this if you need to modify
-** the amount of lines displayed
-*/
-/*
-** Leave these unless you want
-** to open a whole can of worms
-*/
-/*
-** Set up the experiment
-*/
+
 html {
   background-color: #5138BE;
   height: 100%;
@@ -21,9 +11,7 @@ body {
   display: flex;
 }
 
-/*
-** Apply styles to the parent element
-*/
+
 .Words {
   margin: 0 auto;
   padding: 80px 0;
@@ -39,9 +27,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-/*
-** Apply common styles to each line of text
-*/
+
 .Words-line {
   height: 50px;
   overflow: hidden;
@@ -77,9 +63,7 @@ body {
   left: 203px;
 }
 
-/*
-** Fine-grained text styles
-*/
+
 p {
   height: 50px;
   line-height: 45px;
@@ -92,9 +76,7 @@ p {
   white-space: nowrap;
 }
 
-/*
-** The hover interaction
-*/
+
 .Words:hover p {
   -webkit-transform: translate3d(0, -50px, 0);
           transform: translate3d(0, -50px, 0);

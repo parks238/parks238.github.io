@@ -1,0 +1,2663 @@
+body{
+	background-color: black;
+	margin: auto;
+	position:center;
+  margin: 0;
+  padding: 0
+}
+.f {
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+
+    display: inline-block;
+    transform: scale(0.5);
+}
+.fl {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 50px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.fl-2 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 10px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.fl-3{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 30px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.fl-4{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 20px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.fl-5{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 28px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.fl-6{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 55px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.fl-7{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 05px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.fl-8{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 35px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.fl-9{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 25px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.fl-10{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 33px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.fl-11 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 250px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.fl-12 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 200px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.fl-13{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 230px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.fl-14{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 220px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.fl-15{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 228px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.fl-16{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 255px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.fl-17{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 205px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.fl-18{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 235px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.fl-19{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 225px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.fl-20{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 233px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.fl-21{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 7px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.fl-22{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 14px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.fl-23{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 21px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.fl-24{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 28px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.fl-25{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 35px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.fl-26{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 42px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.fl-27{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 49px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.fl-28{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 56px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.fl-29{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 63px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.fl-30{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 70px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.a {
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    margin-left: 150px;
+    display: inline-block;
+    transform: scale(0.5);
+}
+
+.al {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 250px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.al-2 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 200px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.al-3{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 230px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.al-4{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 220px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.al-5{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 228px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.al-6{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 255px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.al-7{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 205px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.al-8{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 235px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.al-9{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 225px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.al-10{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 34px;
+  top: 233px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.al-11{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 37px;
+  transform: rotate(32deg);
+  background-color: white;
+}
+
+.al-12{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 44px;
+  transform: rotate(27deg);
+  background-color: white;
+}
+
+.al-13{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 51px;
+  transform: rotate(24deg);
+  background-color: white;
+}
+
+.al-14{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 58px;
+  transform: rotate(34deg);
+  background-color: white;
+}
+
+.al-15{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 65px;
+  transform: rotate(29deg);
+  background-color: white;
+}
+.al-16{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 72px;
+  transform: rotate(33deg);
+  background-color: white;
+}
+
+.al-17{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 79px;
+  transform: rotate(29deg);
+  background-color: white;
+}
+
+.al-18{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 86px;
+  transform: rotate(24deg);
+  background-color: white;
+}
+
+.al-19{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 93px;
+  transform: rotate(34deg);
+  background-color: white;
+}
+
+.al-20{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 100px;
+  transform: rotate(30deg);
+  background-color: white;
+}
+
+.al-21{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 37px;
+  transform: rotate(-32deg);
+  background-color: white;
+}
+
+.al-22{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 44px;
+  transform: rotate(-27deg);
+  background-color: white;
+}
+
+.al-23{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right:  51px;
+  transform: rotate(-24deg);
+  background-color: white;
+}
+
+.al-24{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 58px;
+  transform: rotate(-34deg);
+  background-color: white;
+}
+
+.al-25{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 65px;
+  transform: rotate(-29deg);
+  background-color: white;
+}
+.al-26{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 72px;
+  transform: rotate(-32deg);
+  background-color: white;
+}
+
+.al-27{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 79px;
+  transform: rotate(-28deg);
+  background-color: white;
+}
+
+.al-28{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 86px;
+  transform: rotate(-22deg);
+  background-color: white;
+}
+
+.al-29{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 93px;
+  transform: rotate(-34deg);
+  background-color: white;
+}
+
+.al-30{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 100px;
+  transform: rotate(-30deg);
+  background-color: white;
+}
+
+.al-31 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 50px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.al-32 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 10px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.al-33{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 30px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.al-34{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 20px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.al-35{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 28px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.al-36{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 55px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.al-37{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 05px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.al-38{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 35px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.al-39{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 25px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.al-40{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 33px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.s{
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    transform: scale(0.5);
+    margin-left: 300px;
+}
+
+
+.sl-11{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 117px;
+
+  transform: rotate(222deg);
+  background-color: white;
+}
+
+.sl-12{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 124px;
+  transform: rotate(223deg);
+  background-color: white;
+}
+
+.sl-13{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 131px;
+  transform: rotate(216deg);
+  background-color: white;
+}
+
+.sl-14{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 138px;
+  transform: rotate(224deg);
+  background-color: white;
+}
+
+.sl-15{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 145px;
+  transform: rotate(221deg);
+  background-color: white;
+}
+
+.sl-16{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 152px;
+  transform: rotate(230deg);
+  background-color: white;
+}
+
+.sl-17{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ right: 159px;
+  transform: rotate(225deg);
+  background-color: white;
+}
+
+.sl-18{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right:166px;
+  transform: rotate(219deg);
+  background-color: white;
+}
+
+.sl-19{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 173px;
+  transform: rotate(232deg);
+  background-color: white;
+}
+
+.sl-20{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 180px;
+  transform: rotate(54deg);
+  background-color: white;
+}
+
+.sl-21{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 117px;
+top:100px;
+  transform: rotate(-52deg);
+  background-color: white;
+}
+
+.sl-22{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 124px;
+  top:100px;
+  transform: rotate(-53deg);
+  background-color: white;
+}
+
+.sl-23{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 131px;
+  top:100px;
+  transform: rotate(-46deg);
+  background-color: white;
+}
+
+.sl-24{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 138px;
+  top:100px;
+  transform: rotate(-54deg);
+  background-color: white;
+}
+
+.sl-25{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 145px;
+  top:100px;
+  transform: rotate(-51deg);
+  background-color: white;
+}
+
+.sl-26{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 152px;
+  top:100px;
+  transform: rotate(-60deg);
+  background-color: white;
+}
+
+.sl-27{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 159px;
+  top:100px;
+  transform: rotate(-55deg);
+  background-color: white;
+}
+
+.sl-28{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right:166px;
+  top:100px;
+  transform: rotate(-49deg);
+  background-color: white;
+}
+
+.sl-29{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 173px;
+  top:100px;
+  transform: rotate(-62deg);
+  background-color: white;
+}
+
+.sl-30{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 180px;
+  top:100px;
+  transform: rotate(-64deg);
+  background-color: white;
+}
+
+.sl-31{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 117px;
+  top:250px;
+  transform: rotate(42deg);
+  background-color: white;
+}
+
+.sl-32{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 124px;
+  top:250px;
+  transform: rotate(43deg);
+  background-color: white;
+}
+
+.sl-33{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 131px;
+  top:250px;
+  transform: rotate(36deg);
+  background-color: white;
+}
+
+.sl-34{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 138px;
+  top:250px;
+  transform: rotate(44deg);
+  background-color: white;
+}
+
+.sl-35{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 145px;
+  top:250px;
+  transform: rotate(41deg);
+  background-color: white;
+}
+
+.sl-36{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 152px;
+  top:250px;
+  transform: rotate(50deg);
+  background-color: white;
+}
+
+.sl-37{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ right: 159px;
+ top:250px;
+  transform: rotate(45deg);
+  background-color: white;
+}
+
+.sl-38{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right:166px;
+  top:250px;
+  transform: rotate(39deg);
+  background-color: white;
+}
+
+.sl-39{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 173px;
+  top:250px;
+  transform: rotate(52deg);
+  background-color: white;
+}
+
+.sl-40{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 180px;
+  top:250px;
+  transform: rotate(54deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.h {
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    transform: scale(0.5);
+    margin-left: 450px;
+   
+}
+
+.hl {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 250px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.hl-2 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 200px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.hl-3{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 230px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.hl-4{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 220px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.hl-5{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 228px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.hl-6{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 255px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.hl-7{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 205px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.hl-8{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 235px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.hl-9{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 225px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.hl-10{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 233px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.hl-11{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 7px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.hl-12{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 14px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.hl-13{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 21px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.hl-14{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 28px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.hl-15{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 35px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.hl-16{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 42px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.hl-17{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 49px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.hl-18{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 56px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.hl-19{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 63px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.hl-20{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 70px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.hl-21{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 7px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.hl-22{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 14px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.hl-23{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 21px;
+  transform: rotate(-6deg);
+  background-color:white;
+}
+
+.hl-24{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 28px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.hl-25{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 35px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+.hl-26{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 42px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.hl-27{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 49px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.hl-28{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 56px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.hl-29{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 63px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.hl-30{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 70px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+.i{
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    transform: scale(0.5);
+    margin-left: 600px;
+    
+}
+
+
+.il {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 50px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.il-2 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 10px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.il-3{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 30px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.il-4{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 20px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.il-5{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 28px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.il-6{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 55px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.il-7{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 05px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.il-8{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 35px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.il-9{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 25px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.il-10{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  top: 33px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.il-11 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 50px;
+  transform: rotate(-2deg);
+  background-color: white;
+}
+.il-12 {
+  position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 10px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.il-13{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 30px;
+  transform: rotate(-5deg);
+  background-color: white;
+}
+
+.il-14{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 20px;
+  transform: rotate(-4deg);
+  background-color: white;
+}
+
+.il-15{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 28px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.il-16{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 55px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.il-17{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 05px;
+  transform: rotate(8deg);
+  background-color: white;
+}
+
+.il-18{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 35px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.il-19{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 25px;
+  transform: rotate(-7deg);
+  background-color: white;
+}
+
+.il-20{
+   position: absolute;
+  width: 350px;
+  height: 2px;
+  left: 4px;
+  bottom: 33px;
+  transform: rotate(3deg);
+  background-color: white;
+}
+
+.il-21{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 157px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.il-22{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 164px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.il-23{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 171px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.il-24{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 178px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.il-25{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left:185px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.il-26{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 192px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.il-27{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 199px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.il-28{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 206px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.il-29{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 213px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.il-30{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 220px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.o{
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    transform: scale(0.5);
+    margin-left:750px;
+}
+
+.ol{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 67px;
+  transform: rotate(42deg);
+  background-color: white;
+}
+
+.ol-2{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 74px;
+  transform: rotate(43deg);
+  background-color: white;
+}
+
+.ol-3{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 81px;
+  transform: rotate(36deg);
+  background-color: white;
+}
+
+.ol-4{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 88px;
+  transform: rotate(44deg);
+  background-color: white;
+}
+
+.ol-5{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 95px;
+  transform: rotate(41deg);
+  background-color: white;
+}
+
+.ol-6{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 102px;
+  transform: rotate(50deg);
+  background-color: white;
+}
+
+.ol-7{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ left: 109px;
+  transform: rotate(45deg);
+  background-color: white;
+}
+
+.ol-8{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left:116px;
+  transform: rotate(39deg);
+  background-color: white;
+}
+
+.ol-9{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 123px;
+  transform: rotate(52deg);
+  background-color: white;
+}
+
+.ol-10{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 130px;
+  transform: rotate(54deg);
+  background-color: white;
+}
+
+.ol-11{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 67px;
+  top:250px;
+  transform: rotate(42deg);
+  background-color: white;
+}
+
+.ol-12{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 74px;
+  top:250px;
+  transform: rotate(43deg);
+  background-color: white;
+}
+
+.ol-13{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 81px;
+  top:250px;
+  transform: rotate(36deg);
+  background-color: white;
+}
+
+.ol-14{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 88px;
+  top:250px;
+  transform: rotate(44deg);
+  background-color: white;
+}
+
+.ol-15{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 95px;
+  top:250px;
+  transform: rotate(41deg);
+  background-color: white;
+}
+
+.ol-16{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 102px;
+  top:250px;
+  transform: rotate(50deg);
+  background-color: white;
+}
+
+.ol-17{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ right: 109px;
+ top:250px;
+  transform: rotate(45deg);
+  background-color: white;
+}
+
+.ol-18{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right:116px;
+  top:250px;
+  transform: rotate(39deg);
+  background-color: white;
+}
+
+.ol-19{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 123px;
+  top:250px;
+  transform: rotate(52deg);
+  background-color: white;
+}
+
+.ol-20{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 130px;
+  top:250px;
+  transform: rotate(54deg);
+  background-color: white;
+}
+
+.ol-21{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 67px;
+  top:250px;
+  transform: rotate(-42deg);
+  background-color: white;
+}
+
+.ol-22{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 74px;
+  top:250px;
+  transform: rotate(-43deg);
+  background-color: white;
+}
+
+.ol-23{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 81px;
+  top:250px;
+  transform: rotate(-36deg);
+  background-color: white;
+}
+
+.ol-24{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 88px;
+  top:250px;
+  transform: rotate(-44deg);
+  background-color: white;
+}
+
+.ol-25{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 95px;
+  top:250px;
+  transform: rotate(-41deg);
+  background-color: white;
+}
+
+.ol-26{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 102px;
+  top:250px;
+  transform: rotate(-50deg);
+  background-color: white;
+}
+
+.ol-27{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ left: 109px;
+ top:250px;
+  transform: rotate(-45deg);
+  background-color: white;
+}
+
+.ol-28{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left:116px;
+  top:250px;
+  transform: rotate(-39deg);
+  background-color: white;
+}
+
+.ol-29{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 123px;
+  top:250px;
+  transform: rotate(-52deg);
+  background-color: white;
+}
+
+.ol-30{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 130px;
+  top:250px;
+  transform: rotate(-54deg);
+  background-color: white;
+}
+
+.ol-31{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 67px;
+  transform: rotate(-42deg);
+  background-color: white;
+}
+
+.ol-32{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 74px;
+  transform: rotate(-43deg);
+  background-color: white;
+}
+
+.ol-33{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 81px;
+  transform: rotate(-36deg);
+  background-color: white;
+}
+
+.ol-34{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 88px;
+  transform: rotate(-44deg);
+  background-color: white;
+}
+
+.ol-35{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 95px;
+  transform: rotate(-41deg);
+  background-color: white;
+}
+
+.ol-36{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 102px;
+  transform: rotate(-50deg);
+  background-color: white;
+}
+
+.ol-37{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 109px;
+  transform: rotate(-45deg);
+  background-color: white;
+}
+
+.ol-38{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right:116px;
+  transform: rotate(-39deg);
+  background-color: white;
+}
+
+.ol-39{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 123px;
+  transform: rotate(-52deg);
+  background-color: white;
+}
+
+.ol-40{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  right: 130px;
+  transform: rotate(-54deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.n {
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    transform: scale(0.5);
+    margin-left:900px;
+
+}
+
+
+
+.nl-1{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 7px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.nl-2{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 14px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.nl-3{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 21px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.nl-4{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 28px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.nl-5{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 35px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.nl-6{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 42px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.nl-7{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 49px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.nl-8{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 56px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.nl-9{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 63px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.nl-10{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 70px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.nl-11{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 152px;
+  transform: rotate(-32deg);
+  background-color: white;
+}
+
+.nl-12{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 159px;
+  transform: rotate(-23deg);
+  background-color: white;
+}
+
+.nl-13{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 166px;
+  transform: rotate(-26deg);
+  background-color: white;
+}
+
+.nl-14{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 173px;
+  transform: rotate(-34deg);
+  background-color: white;
+}
+
+.nl-15{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 180px;
+  transform: rotate(-21deg);
+  background-color: white;
+}
+
+.nl-16{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 187px;
+  transform: rotate(-32deg);
+  background-color: white;
+}
+
+.nl-17{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+ left: 194px;
+  transform: rotate(-23deg);
+  background-color: white;
+}
+
+.nl-18{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 201px;
+  transform: rotate(-26deg);
+  background-color: white;
+}
+
+.nl-19{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 208px;
+  transform: rotate(-34deg);
+  background-color: white;
+}
+
+.nl-20{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  left: 215px;
+  transform: rotate(-21deg);
+  background-color: white;
+}
+
+.nl-21{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 7px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.nl-22{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 14px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.nl-23{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 21px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.nl-24{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 28px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.nl-25{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 35px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+.nl-26{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 42px;
+  transform: rotate(2deg);
+  background-color: white;
+}
+
+.nl-27{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 49px;
+  transform: rotate(-3deg);
+  background-color: white;
+}
+
+.nl-28{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 56px;
+  transform: rotate(-6deg);
+  background-color: white;
+}
+
+.nl-29{
+   position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 63px;
+  transform: rotate(4deg);
+  background-color: white;
+}
+
+.nl-30{
+    position: absolute;
+  width: 2px;
+  height: 500px;
+  right: 70px;
+  transform: rotate(-1deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.scale1{
+  padding-top:200px;
+
+}
+.scale2{
+  padding-top:250px;
+
+}
+.scale3{
+  padding-top:100px;
+
+}
+.scale4{
+  padding-top:100px;
+
+}
+.scale5{
+  padding-top:800px;
+
+}
+.scale6{
+  padding-top:900px;
+
+}
+.scale7{
+  padding-top:1000px;
+
+}
+
+
+
+
+
+
+
+
+.arrow {
+  position: fixed; 
+    height: 500px;
+    width: 350px;
+    margin-left: 1200px;
+    display: inline-block;
+}
+
+.arrowl{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 67px;
+  transform: rotate(42deg);
+  background-color: white;
+}
+
+
+.arrowl-2{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 74px;
+  transform: rotate(43deg);
+  background-color: white;
+}
+
+.arrowl-3{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 81px;
+  transform: rotate(36deg);
+  background-color: white;
+}
+
+.arrowl-4{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 88px;
+  transform: rotate(44deg);
+  background-color: white;
+}
+
+.arrowl-5{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 95px;
+  transform: rotate(41deg);
+  background-color: white;
+}
+
+.arrowl-6{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 102px;
+  transform: rotate(50deg);
+  background-color: white;
+}
+
+.arrowl-7{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ left: 109px;
+  transform: rotate(45deg);
+  background-color: white;
+}
+
+.arrowl-8{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left:116px;
+  transform: rotate(39deg);
+  background-color: white;
+}
+
+.arrowl-9{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 123px;
+  transform: rotate(52deg);
+  background-color: white;
+}
+
+.arrowl-10{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 130px;
+  transform: rotate(54deg);
+  background-color: white;
+}
+
+.arrowl-11{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 67px;
+  top:250px;
+  transform: rotate(-42deg);
+  background-color: white;
+}
+
+.arrowl-12{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 74px;
+  top:250px;
+  transform: rotate(-43deg);
+  background-color: white;
+}
+
+.arrowl-13{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 81px;
+  top:250px;
+  transform: rotate(-36deg);
+  background-color: white;
+}
+
+.arrowl-14{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 88px;
+  top:250px;
+  transform: rotate(-44deg);
+  background-color: white;
+}
+
+.arrowl-15{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 95px;
+  top:250px;
+  transform: rotate(-41deg);
+  background-color: white;
+}
+
+.arrowl-16{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 102px;
+  top:250px;
+  transform: rotate(-50deg);
+  background-color: white;
+}
+
+.arrowl-17{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+ left: 109px;
+ top:250px;
+  transform: rotate(-45deg);
+  background-color: white;
+}
+
+.arrowl-18{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left:116px;
+  top:250px;
+  transform: rotate(-39deg);
+  background-color: white;
+}
+
+.arrowl-19{
+   position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 123px;
+  top:250px;
+  transform: rotate(-52deg);
+  background-color: white;
+}
+
+.arrowl-20{
+    position: absolute;
+  width: 2px;
+  height: 300px;
+  left: 130px;
+  top:250px;
+  transform: rotate(-54deg);
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+.image {
+  background:url("images/fbw.jpg" ) no-repeat;
+   position: absolute;
+ margin-left: 100px;
+ height: 1000px;
+ width: 2000px;
+}
+
+.image2 {
+  background:url("images/3bw.jpg" ) no-repeat;
+   position: absolute;
+  margin-top:2000px;
+margin-left:100px;
+ height: 100%;
+ width: 100%;
+}
+
+.image3 {
+  background:url("images/90bw.jpg" ) no-repeat;
+   position: absolute;
+  margin-top:4000px;
+margin-left:100px;
+ height: 100%;
+ width: 100%;
+}
+
+.image4 {
+  background:url("images/90sbw.jpg" ) no-repeat;
+   position: absolute;
+  margin-top:6000px;
+margin-left:100px;
+ height: 100%;
+ width: 100%;
+}
+.image:hover {
+  background:url("images/hiphopend.jpg" )no-repeat;
+
+}
+.image2:hover {
+  background:url("images/3.jpg" )no-repeat;
+
+}
+
+.image3:hover {
+  background:url("images/90.jpg" )no-repeat;
+
+}
+.image4:hover {
+  background:url("images/90s.jpg" )no-repeat;
+
+}
+.text{
+	opacity: 0;
+}
+
+.text:hover{
+	opacity: 10;
+}
